@@ -1,0 +1,8 @@
+226.26.149.146 - - [13/Mar/2020:12:50:55 +0000] "GET /posts/list/tag HTTP/1.1" 401 109 "https://www.bell.com/search.php" "Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Win 9x 4.90; Trident/4.1)"
+52.128.121.147 - - [13/Mar/2020:12:50:55 +0000] "PUT /wp-content/tag HTTP/1.1" 401 36 "http://nelson-gomez.info/app/categories/home.php" "Opera/8.68.(Windows NT 6.0; it-IT) Presto/2.9.167 Version/12.00"
+250.239.215.166 - - [13/Mar/2020:12:50:55 +0000] "POST /explore/posts/blog HTTP/1.1" 401 349 "http://esparza.biz/" "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; en-US) AppleWebKit/534.30.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6534.30.4"
+155.193.245.111 - - [13/Mar/2020:12:50:55 +0000] "GET /blog HTTP/1.1" 200 625 "http://www.schwartz.com/search/category/login/" "Opera/9.74.(Windows NT 6.0; sl-SI) Presto/2.9.168 Version/12.00"
+2.147.88.30 - - [13/Mar/2020:12:50:55 +0000] "POST /search/categories/category HTTP/1.1" 200 740 "https://www.marks.com/list/post/" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_8) AppleWebKit/5322 (KHTML, like Gecko) Chrome/15.0.857.0 Safari/5322"
+248.237.198.25 - - [13/Mar/2020:12:50:55 +0000] "GET /blog/list/categories HTTP/1.1" 404 270 "http://www.hughes.net/login/" "Opera/8.77.(Windows 98; sl-SI) Presto/2.9.161 Version/11.00"
+35.180.55.101 - - [13/Mar/2020:12:50:55 +0000] "POST /categories HTTP/1.1" 404 184 "https://campbell-williams.org/post.jsp" "Mozilla/5.0 (Windows NT 6.1; sl-SI; rv:1.9.2.20) Gecko/2015-07-09 11:03:09 Firefox/3.8"
+95.238.205.158 - - [13/Mar/2020:12:50:55 +0000] "PUT /categories/blog HTTP/1.1" 401 277 "https://www.singleton.com/terms/" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_2 rv:4.0; en-US) AppleWebKit/535.32.5 (KHTML, like Gecko) Version/5.0 Safari/535.32.5"
